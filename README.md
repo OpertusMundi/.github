@@ -1,2 +1,2 @@
 # .github
-OpertusMundi repository for templates and adinistrative files
+OpertusMundi repository for templates and administrative files
